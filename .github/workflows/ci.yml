@@ -28,6 +28,8 @@ jobs:
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
+        env:
+          PNPM_SCRIPT_ALLOW_ALL_BUILD_SCRIPTS: true
 
       - name: Check ESLint
         run: pnpm lint
