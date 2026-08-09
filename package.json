@@ -42,5 +42,13 @@
   "optionalDependencies": {
     "@eslint/eslintrc": "^3.1.0",
     "typescript-eslint": "^8.66.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@prisma/client",
+      "@prisma/engines",
+      "esbuild",
+      "prisma"
+    ]
   }
 }
