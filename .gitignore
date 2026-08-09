@@ -1,0 +1,29 @@
+# Node Dependencies
+node_modules/
+.pnpm-store/
+
+# Build Outputs
+dist/
+.next/
+out/
+build/
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE & OS files
+.vscode/
+.idea/
+.kiro/
+.DS_Store
+.agent/
+.agent_modules/
+.agent_state/
