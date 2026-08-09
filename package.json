@@ -2,7 +2,10 @@
   "name": "sub-tracker-monorepo",
   "private": true,
   "devEngines": {
-    "packageManager": "pnpm@11.20.0"
+    "packageManager": {
+      "name": "pnpm",
+      "version": "11.20.0"
+    }
   },
   "scripts": {
     "build": "turbo run build",
