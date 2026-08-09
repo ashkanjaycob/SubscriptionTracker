@@ -1,0 +1,121 @@
+{
+  "files": {
+    "apps/api/.turbo/turbo-build.log": {
+      "size": 16,
+      "mtime_nanos": 1786267872446795066,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/controllers/subscription.controller.js": {
+      "size": 2276,
+      "mtime_nanos": 1786267872419662353,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/app.js": {
+      "size": 860,
+      "mtime_nanos": 1786267872429027918,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/middlewares/error.middleware.js": {
+      "size": 443,
+      "mtime_nanos": 1786267872428509637,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/routes/schedule.routes.js": {
+      "size": 997,
+      "mtime_nanos": 1786267872427603988,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/middlewares": { "size": 0, "mtime_nanos": 0, "mode": 0, "is_dir": true },
+    "apps/api/dist/services": { "size": 0, "mtime_nanos": 0, "mode": 0, "is_dir": true },
+    "apps/api/dist/services/channel.service.js": {
+      "size": 833,
+      "mtime_nanos": 1786267872422093139,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/routes/channel.routes.js": {
+      "size": 1367,
+      "mtime_nanos": 1786267872423282948,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist": { "size": 0, "mtime_nanos": 0, "mode": 0, "is_dir": true },
+    "apps/api/dist/services/subscription.service.js": {
+      "size": 1695,
+      "mtime_nanos": 1786267872417644935,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/index.js": {
+      "size": 504,
+      "mtime_nanos": 1786267872429414202,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/controllers": { "size": 0, "mtime_nanos": 0, "mode": 0, "is_dir": true },
+    "apps/api/dist/middlewares/validate.middleware.js": {
+      "size": 827,
+      "mtime_nanos": 1786267872420455504,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/services/schedule.service.js": {
+      "size": 2266,
+      "mtime_nanos": 1786267872424719670,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/routes/index.js": {
+      "size": 737,
+      "mtime_nanos": 1786267872428042521,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/routes": { "size": 0, "mtime_nanos": 0, "mode": 0, "is_dir": true },
+    "apps/api/dist/routes/subscription.routes.js": {
+      "size": 1053,
+      "mtime_nanos": 1786267872421271988,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/controllers/schedule.controller.js": {
+      "size": 2112,
+      "mtime_nanos": 1786267872426865127,
+      "mode": 420,
+      "is_dir": false
+    },
+    "apps/api/dist/middlewares/auth.middleware.js": {
+      "size": 1288,
+      "mtime_nanos": 1786267872415336897,
+      "mode": 420,
+      "is_dir": false
+    }
+  },
+  "order": [
+    "apps/api/.turbo/turbo-build.log",
+    "apps/api/dist",
+    "apps/api/dist/app.js",
+    "apps/api/dist/controllers",
+    "apps/api/dist/controllers/schedule.controller.js",
+    "apps/api/dist/controllers/subscription.controller.js",
+    "apps/api/dist/index.js",
+    "apps/api/dist/middlewares",
+    "apps/api/dist/middlewares/auth.middleware.js",
+    "apps/api/dist/middlewares/error.middleware.js",
+    "apps/api/dist/middlewares/validate.middleware.js",
+    "apps/api/dist/routes",
+    "apps/api/dist/routes/channel.routes.js",
+    "apps/api/dist/routes/index.js",
+    "apps/api/dist/routes/schedule.routes.js",
+    "apps/api/dist/routes/subscription.routes.js",
+    "apps/api/dist/services",
+    "apps/api/dist/services/channel.service.js",
+    "apps/api/dist/services/schedule.service.js",
+    "apps/api/dist/services/subscription.service.js"
+  ]
+}
