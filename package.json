@@ -8,6 +8,10 @@
     }
   },
   "scripts": {
+    "start": "pnpm services:up && sleep 3 && pnpm db:setup && pnpm dev",
+    "services:up": "docker compose up -d",
+    "db:setup": "pnpm --filter @sub-tracker/db run db:migrate",
+    "db:seed": "pnpm --filter @sub-tracker/db run db:seed",
     "build": "turbo run build",
     "dev": "turbo run dev",
     "lint": "turbo run lint",
