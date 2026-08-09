@@ -1,6 +1,9 @@
 {
   "name": "sub-tracker-monorepo",
   "private": true,
+  "devEngines": {
+    "packageManager": "pnpm@11.20.0"
+  },
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
@@ -32,5 +35,10 @@
     "*.{json,md,yaml,yml}": [
       "prettier --write"
     ]
+  },
+  "optionalDependencies": {
+    "@eslint/eslintrc": "^3.1.0",
+    "@eslint/js": "^9.128.1",
+    "typescript-eslint": "^8.66.0"
   }
 }
