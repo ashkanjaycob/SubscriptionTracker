@@ -11,6 +11,7 @@
     "db:migrate": "prisma migrate dev",
     "db:seed": "tsx prisma/seed.ts",
     "build": "tsc",
+    "dev": "prisma studio",
     "lint": "eslint ."
   },
   "prisma": {
