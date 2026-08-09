@@ -1,0 +1,101 @@
+{
+  "files": {
+    "packages/shared/dist/schemas": { "size": 0, "mtime_nanos": 0, "mode": 0, "is_dir": true },
+    "packages/shared/.turbo/turbo-build.log": {
+      "size": 16,
+      "mtime_nanos": 1786267871438456353,
+      "mode": 420,
+      "is_dir": false
+    },
+    "packages/shared/dist/schemas/schedule.schema.d.ts.map": {
+      "size": 409,
+      "mtime_nanos": 1786267871421174529,
+      "mode": 420,
+      "is_dir": false
+    },
+    "packages/shared/dist/schemas/schedule.schema.js": {
+      "size": 547,
+      "mtime_nanos": 1786267871419506937,
+      "mode": 420,
+      "is_dir": false
+    },
+    "packages/shared/dist/schemas/schedule.schema.d.ts": {
+      "size": 1250,
+      "mtime_nanos": 1786267871421306984,
+      "mode": 420,
+      "is_dir": false
+    },
+    "packages/shared/dist/index.d.ts": {
+      "size": 176,
+      "mtime_nanos": 1786267871422775164,
+      "mode": 420,
+      "is_dir": false
+    },
+    "packages/shared/dist/schemas/subscription.schema.d.ts": {
+      "size": 2262,
+      "mtime_nanos": 1786267871416732575,
+      "mode": 420,
+      "is_dir": false
+    },
+    "packages/shared/dist/index.js": {
+      "size": 952,
+      "mtime_nanos": 1786267871422270840,
+      "mode": 420,
+      "is_dir": false
+    },
+    "packages/shared/dist/schemas/subscription.schema.js": {
+      "size": 917,
+      "mtime_nanos": 1786267871408100996,
+      "mode": 420,
+      "is_dir": false
+    },
+    "packages/shared/dist/schemas/channel.schema.d.ts.map": {
+      "size": 286,
+      "mtime_nanos": 1786267871418527123,
+      "mode": 420,
+      "is_dir": false
+    },
+    "packages/shared/dist/schemas/subscription.schema.d.ts.map": {
+      "size": 441,
+      "mtime_nanos": 1786267871416592578,
+      "mode": 420,
+      "is_dir": false
+    },
+    "packages/shared/dist/schemas/channel.schema.js": {
+      "size": 360,
+      "mtime_nanos": 1786267871417568058,
+      "mode": 420,
+      "is_dir": false
+    },
+    "packages/shared/dist/index.d.ts.map": {
+      "size": 171,
+      "mtime_nanos": 1786267871422672832,
+      "mode": 420,
+      "is_dir": false
+    },
+    "packages/shared/dist": { "size": 0, "mtime_nanos": 0, "mode": 0, "is_dir": true },
+    "packages/shared/dist/schemas/channel.schema.d.ts": {
+      "size": 423,
+      "mtime_nanos": 1786267871418691995,
+      "mode": 420,
+      "is_dir": false
+    }
+  },
+  "order": [
+    "packages/shared/.turbo/turbo-build.log",
+    "packages/shared/dist",
+    "packages/shared/dist/index.d.ts",
+    "packages/shared/dist/index.d.ts.map",
+    "packages/shared/dist/index.js",
+    "packages/shared/dist/schemas",
+    "packages/shared/dist/schemas/channel.schema.d.ts",
+    "packages/shared/dist/schemas/channel.schema.d.ts.map",
+    "packages/shared/dist/schemas/channel.schema.js",
+    "packages/shared/dist/schemas/schedule.schema.d.ts",
+    "packages/shared/dist/schemas/schedule.schema.d.ts.map",
+    "packages/shared/dist/schemas/schedule.schema.js",
+    "packages/shared/dist/schemas/subscription.schema.d.ts",
+    "packages/shared/dist/schemas/subscription.schema.d.ts.map",
+    "packages/shared/dist/schemas/subscription.schema.js"
+  ]
+}
